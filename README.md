@@ -38,3 +38,6 @@ Building this project helped me strengthen my understanding of C programming, pa
 Add a graphical user interface (GUI)
 Integrate a database instead of file storage
 Add secure login/authentication for Admin and Users
+## Authors:
+1.Ipsita Nur Siddiqua
+2.Orpita Das Sreya
